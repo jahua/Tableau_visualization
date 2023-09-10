@@ -3,11 +3,13 @@ As it is known, Tableau is a very useful and powerful tool for data visualizatio
 This project has allowed us to gain knowledge in Tableau and Tableau Desktop, learn the uses and some of the most important features. 
 
 #motivation
+
 First of all, working with Tableau for this project make us learn about this useful tool in data visualization and data analysis. Find out how to use Tableau and its features. We consider Tableau as very useful for our professional career, furthermore we are studying in this field. 
 Accordingly, our main goal and first motivation is to learn about Tableau, which was completely new to us, but a real discovery.
 Second, to choose a topic that is interesting for us. After doing some research to find a coherent dataset of interest that would allow us to start working with Tableau and meet the requirements for the project.
 
 #Source project link:
+
 https://climatedata.imf.org/datasets/0bfab7fb7e0e4050b82bba40cd7a1bd5/explore
 
 It fulfills our interests perfectly: the topic of climate change and the structure of the dataset source is very complete but not too difficult to understand with technical fields and difficult concepts. 
